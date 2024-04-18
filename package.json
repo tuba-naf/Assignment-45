@@ -1,0 +1,16 @@
+{
+  "name": "first-assignment-(certified-applied-generative-ai-course)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignment.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.36.1"
+  }
+}
